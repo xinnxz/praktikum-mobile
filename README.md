@@ -11,7 +11,7 @@
 -->
 
 ## Soal
->1. Buatlah dua class dengan rangkaian berikut ini.
+> 1. Buatlah dua class dengan rangkaian berikut ini.
     (rangkaiannya terlampir di gambar)
 
 
