@@ -11,8 +11,10 @@
 -->
 
 ## Soal
-> 1. Buatlah dua class dengan rangkaian berikut ini.
+```
+1. Buatlah dua class dengan rangkaian berikut ini.
     (rangkaiannya terlampir di gambar)
+
     Pada class mobil, buatlah methode `total muatan` untuk menghitung total muatan yang diangkut oleh mobil tersebut! 
 
 2. Buatlah fungsi dengan spesifikasi sebagai berikut ini ! 
@@ -20,6 +22,5 @@
     b. Lakukan perulangan pada list data secara asynchrounous, 
     c. Tiap perulangan, kalikan elemen list data dengan pengali, 
     d. Return list baru yang berisi hasil proses di atas
-
-
+```
 
