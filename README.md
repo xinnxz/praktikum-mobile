@@ -14,7 +14,6 @@
 > 1. Buatlah dua class dengan rangkaian berikut ini.
     (rangkaiannya terlampir di gambar)
 
-
     Pada class mobil, buatlah methode `total muatan` untuk menghitung total muatan yang diangkut oleh mobil tersebut! 
 
 2. Buatlah fungsi dengan spesifikasi sebagai berikut ini ! 
