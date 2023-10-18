@@ -1,16 +1,23 @@
-# project
+# PERTEMUAN 1
 
-A new Flutter project.
+<p align="center">
+  <img src="https://media.tenor.com/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif" width="30%" height="30%">
+</p>
 
-## Getting Started
+<!--
+<p align="center">
+  <img src="https://ibb.co/K7dYS1B" width="50%" height="50%">
+</p>
+-->
 
-This project is a starting point for a Flutter application.
+## Soal
+```
 
-A few resources to get you started if this is your first Flutter project:
+1. Lakukan Setup pada projek flutter kalian (main.dart) dan jalankan di android device
+kalian
+2. Kirim ke repo github kalian
+3. Kumpulkan dalam bentuk link repo
+4. Lampirkan foto hasil running program di hp
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
