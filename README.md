@@ -6,7 +6,7 @@
 
 <!--
 <p align="center">
-  <img src="https://i.ibb.co/TR6ZdCJ/IMG20231018230953.jpg" alt="IMG20231018230953" width="50%" height="50%">
+  <img src="https://i.ibb.co/RPf1d5t/IMG20231018230953.jpg" alt="IMG20231018230953" width="50%" height="50%">
 </p>
 -->
 
