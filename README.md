@@ -1,11 +1,7 @@
 # PERTEMUAN 3
 
 <p align="center">
-  <img src="https://media.tenor.com/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif" width="30%" height="30%">
-</p>
-
-<p align="center">
-  <img src="https://i.ibb.co/RPf1d5t/IMG20231018230953.jpg" alt="IMG20231018230953" width="50%" height="50%">
+  <img src="https://i.ibb.co/RPf1d5t/IMG20231018230953.jpg" alt="IMG20231018230953" width="30%" height="30%">
 </p>
 
 ## Soal
